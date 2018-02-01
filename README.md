@@ -1,10 +1,10 @@
 # Configuring Linux Web Servers
 
 ## i. The IP address and SSH port
-IP and Port for ssh: __http://13.127.53.57:2200__
+IP and Port for ssh: 
 
 ## ii. The complete URL to the Web Application
-http://13.127.53.57
+
 
 ## iii. A summary of software installed and configuration changes made.
 
